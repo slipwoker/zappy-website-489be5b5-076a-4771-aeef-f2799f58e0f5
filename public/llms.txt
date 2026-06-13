@@ -7,33 +7,33 @@
 ## Pages
 
 ### Home
-https://the-dawg-pound-collective-489be5b5.zappy5.app
+https://example.com
 Experience electric Browns watch parties, free membership, and a community that gives back through scholarships, fundraisers, and supporting veterans. Game On in North Olmsted—join the pack today!
 
 ### Membership & Game Day
-https://the-dawg-pound-collective-489be5b5.zappy5.app/membership-game-day
+https://example.com/membership-game-day
 Claim your free membership and dive into the loudest Browns game day experience at Game On. Expect high-energy watch parties, orange-and-brown pride, and a crew that feels like family. Don&#39;t just watch—belong!
 
 ### Community Impact
-https://the-dawg-pound-collective-489be5b5.zappy5.app/community-impact
+https://example.com/community-impact
 Beyond the gridiron, we fuel real change: scholarships, fundraisers, and outreach for veterans, schools, women&#39;s shelters, and dog rescues. See how Browns fans turn passion into purpose and make a difference.
 
 ### Contact
-https://the-dawg-pound-collective-489be5b5.zappy5.app/contact
+https://example.com/contact
 Ready to join the collective, partner on a fundraiser for veterans, or bring game day fun to your cause? Reach out now and let&#39;s huddle up for good. The Dawg Pound is all ears and always open.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://the-dawg-pound-collective-489be5b5.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://the-dawg-pound-collective-489be5b5.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://the-dawg-pound-collective-489be5b5.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://the-dawg-pound-collective-489be5b5.zappy5.app/contact
-- Endpoint: https://the-dawg-pound-collective-489be5b5.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -74,6 +74,6 @@ Sports & Entertainment / Community Organization
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://the-dawg-pound-collective-489be5b5.zappy5.app/sitemap.xml
-- Robots: https://the-dawg-pound-collective-489be5b5.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://the-dawg-pound-collective-489be5b5.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
