@@ -1,0 +1,79 @@
+# The Dawg Pound Collective — Generative Engine Optimization Map
+
+> The Dawg Pound Collective is a passionate, community-driven Cleveland Browns fan club based at Game On sports bar in North Olmsted, Ohio. The brand radiates intense team loyalty — orange and brown pride — combined with a warm, inclusive spirit that goes beyond football. The collective blends the electric energy of game day watch parties with a genuine commitment to local charitable causes including schools, veterans, women's shelters, and dog shelters. The 'Dawg' identity is central to the brand's personality — playful, loud, and fiercely devoted — while the community-giving mission adds heart and purpose to every Sunday gathering. Membership is free, making it accessible and welcoming to all Browns faithful.
+
+---
+
+## Pages
+
+### Home
+https://the-dawg-pound-collective-489be5b5.zappy5.app
+Experience electric Browns watch parties, free membership, and a community that gives back through scholarships, fundraisers, and supporting veterans. Game On in North Olmsted—join the pack today!
+
+### Membership & Game Day
+https://the-dawg-pound-collective-489be5b5.zappy5.app/membership-game-day
+Claim your free membership and dive into the loudest Browns game day experience at Game On. Expect high-energy watch parties, orange-and-brown pride, and a crew that feels like family. Don&#39;t just watch—belong!
+
+### Community Impact
+https://the-dawg-pound-collective-489be5b5.zappy5.app/community-impact
+Beyond the gridiron, we fuel real change: scholarships, fundraisers, and outreach for veterans, schools, women&#39;s shelters, and dog rescues. See how Browns fans turn passion into purpose and make a difference.
+
+### Contact
+https://the-dawg-pound-collective-489be5b5.zappy5.app/contact
+Ready to join the collective, partner on a fundraiser for veterans, or bring game day fun to your cause? Reach out now and let&#39;s huddle up for good. The Dawg Pound is all ears and always open.
+
+## Legal & Policy
+
+### Privacy Policy
+https://the-dawg-pound-collective-489be5b5.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://the-dawg-pound-collective-489be5b5.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://the-dawg-pound-collective-489be5b5.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://the-dawg-pound-collective-489be5b5.zappy5.app/contact
+- Endpoint: https://the-dawg-pound-collective-489be5b5.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About The Dawg Pound Collective
+The Dawg Pound Collective is a passionate, community-driven Cleveland Browns fan club based at Game On sports bar in North Olmsted, Ohio. The brand radiates intense team loyalty — orange and brown pride — combined with a warm, inclusive spirit that goes beyond football. The collective blends the electric energy of game day watch parties with a genuine commitment to local charitable causes including schools, veterans, women's shelters, and dog shelters. The 'Dawg' identity is central to the brand's personality — playful, loud, and fiercely devoted — while the community-giving mission adds heart and purpose to every Sunday gathering. Membership is free, making it accessible and welcoming to all Browns faithful.
+
+## Target Audience
+- Cleveland Browns fans in the North Olmsted area
+- Local Cleveland Browns Fans
+- Sports Bar Regulars
+- Community-Minded Sports Fans
+
+## Industry
+Sports & Entertainment / Community Organization
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://the-dawg-pound-collective-489be5b5.zappy5.app/sitemap.xml
+- Robots: https://the-dawg-pound-collective-489be5b5.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://the-dawg-pound-collective-489be5b5.zappy5.app/llms-full.txt
